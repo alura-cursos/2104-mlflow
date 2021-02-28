@@ -1,0 +1,4 @@
+artifact_location: file:///mnt/d/Alura/2104-mlflowlyfecycle/codigo/mlflow/notebooks/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: house-prices-eda
